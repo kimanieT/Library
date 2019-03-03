@@ -1,0 +1,13 @@
+C:\Users\taylor\Desktop\Enterprise\libraryManagementsystem\mainMDI\bin\Debug\mainMDI.exe.config
+C:\Users\taylor\Desktop\Enterprise\libraryManagementsystem\mainMDI\bin\Debug\mainMDI.exe
+C:\Users\taylor\Desktop\Enterprise\libraryManagementsystem\mainMDI\bin\Debug\mainMDI.pdb
+C:\Users\taylor\Desktop\Enterprise\libraryManagementsystem\mainMDI\obj\Debug\forms.csprojAssemblyReference.cache
+C:\Users\taylor\Desktop\Enterprise\libraryManagementsystem\mainMDI\obj\Debug\mainMDI.mainMDI.resources
+C:\Users\taylor\Desktop\Enterprise\libraryManagementsystem\mainMDI\obj\Debug\mainMDI.Properties.Resources.resources
+C:\Users\taylor\Desktop\Enterprise\libraryManagementsystem\mainMDI\obj\Debug\forms.csproj.GenerateResource.cache
+C:\Users\taylor\Desktop\Enterprise\libraryManagementsystem\mainMDI\obj\Debug\forms.csproj.CoreCompileInputs.cache
+C:\Users\taylor\Desktop\Enterprise\libraryManagementsystem\mainMDI\obj\Debug\mainMDI.exe
+C:\Users\taylor\Desktop\Enterprise\libraryManagementsystem\mainMDI\obj\Debug\mainMDI.pdb
+C:\Users\taylor\Desktop\Enterprise\libraryManagementsystem\mainMDI\obj\Debug\mainMDI.LoanFrm.resources
+C:\Users\taylor\Desktop\Enterprise\libraryManagementsystem\mainMDI\obj\Debug\mainMDI.RecordFrm.resources
+C:\Users\taylor\Desktop\Enterprise\libraryManagementsystem\mainMDI\obj\Debug\mainMDI.ReturnFrm.resources
